@@ -1,29 +1,28 @@
 # Image-Detection
 This is an ML project using CNN to detect whether a person is wearing  a mask or not.
 
-## Output Label : 
-<b>masked<b> : 
+## Output Label
+<b>masked :-> <b>
   when a person is wearing mask
  <br>
-<b>withoutMask<b> :
+<b>withoutMask :-> <b>
   when a person is not wearing mask
 
-### Working Demo : 
+## Working Demo 
   
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94070137/150806810-623b2ab3-2d56-49db-8744-c9c1971b862c.gif)
 
-## Project Description : 
-
+# Project Description
 This project consists of two parts : 
 
-1. Training of Model
-2. Prediction using trained model.
+  1. Training of Model
+  2. Prediction using trained model.
 
-### Training of Model : 
+### Training of Model 
 
 For training of model,unzip train.zip and test.zip folders and give the path of both folders in facemask.py.
 
-#### facemask.py :
+#### facemask.py
 This file is used to train the model. To run this file, execute the following command :
 
 ```

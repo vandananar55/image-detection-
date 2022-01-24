@@ -1,15 +1,18 @@
-# image-detection-
+# Image-Detection
 This is an ML project using CNN to detect whether a person is wearing  a mask or not.
 
-# Output Label : 
-<b>Masked<b> : when a person is wearing mask
-<b>without mask<b> : when a person is not wearing mask
+## Output Label : 
+<b>masked<b> : 
+  when a person is wearing mask
+ <br>
+<b>withoutMask<b> :
+  when a person is not wearing mask
 
-### Video : 
+### Working Demo : 
   
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/94070137/150806810-623b2ab3-2d56-49db-8744-c9c1971b862c.gif)
 
-# Project Description : 
+## Project Description : 
 
 This project consists of two parts : 
 

@@ -6,8 +6,8 @@ This is an ML project using CNN to detect whether a person is wearing  a mask or
 <b>without mask<b> : when a person is not wearing mask
 
 ### Video : 
- https://github.com/vandananar55/image-detection-/issues/1
   
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/94070137/150806810-623b2ab3-2d56-49db-8744-c9c1971b862c.gif)
 
 # Project Description : 
 
